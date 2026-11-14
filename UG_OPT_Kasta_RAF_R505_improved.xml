@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-11-14 14:19">
+  <shop>
+    <name>UG-OPT Kasta Test</name>
+    <company>UG-OPT product feed</company>
+    <url>https://ug-opt.in.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Тостери</category>
+    </categories>
+    <offers>
+      <offer id="UG-35346" available="true">
+        <url>https://ug-opt.in.ua/ua/p2899160894-toster-raf-r505.html</url>
+        <price>1696</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Тостер RAF R.505 на 4 скибки хліба, 1300 Вт, 6 рівнів обсмажування</name>
+        <vendor>RAF</vendor>
+        <vendorCode>UG-35346</vendorCode>
+        <picture>https://images.prom.ua/7040763008_toster-raf-r505.jpg</picture>
+        <picture>https://images.prom.ua/7040762580_toster-raf-r505.jpg</picture>
+        <picture>https://images.prom.ua/7040763009_toster-raf-r505.jpg</picture>
+        <picture>https://images.prom.ua/7040763012_toster-raf-r505.jpg</picture>
+        <description><![CDATA[<p><strong>Тостер RAF R.505</strong> — електричний тостер для приготування до чотирьох скибок підсмаженого хліба одночасно. Потужність 1300 Вт допомагає швидко приготувати сніданок для родини.</p><p>Завдяки шести ступеням обсмажування можна вибрати бажаний рівень підрум’янення. Механічне керування просте та зрозуміле.</p><p><strong>Переваги:</strong></p><ul><li>Чотири відділення для тостів</li><li>Потужність 1300 Вт</li><li>Шість рівнів обсмажування</li><li>Механічне керування</li><li>Габарити 22 × 22 × 15 см</li></ul><p>Матеріал корпусу потребує уточнення: у постачальника зазначено суперечливі дані.</p>]]></description>
+        <param name="Тип">Електричний тостер</param>
+        <param name="Бренд">RAF</param>
+        <param name="Модель">R.505</param>
+        <param name="Потужність">1300 Вт</param>
+        <param name="Кількість відділень">4</param>
+        <param name="Кількість тостів">4</param>
+        <param name="Ступені обсмажування">6</param>
+        <param name="Тип керування">Механічне</param>
+        <param name="Напруга">220 В</param>
+        <param name="Висота">22 см</param>
+        <param name="Ширина">22 см</param>
+        <param name="Глибина">15 см</param>
+        <param name="Країна виробництва">Китай</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
